@@ -26,9 +26,7 @@ cookies()
 
 player = driver.find_element(By.CSS_SELECTOR, value="#game-leaderboard > div.relative.max-w-full.overflow-x-auto.overflow-y-hidden.scroll-smooth > table > tbody")
 info_run = driver.find_element(By.XPATH, value="/html/body/div[7]/main/div/div[2]/div[1]/div[2]/div/div/div[2]/div/div/div[1]/div")
-print(info_run.text)
 info_run = len(info_run.text.split("\n"))
-print(info_run)
 
 place_run = 1
 index_list = 0
@@ -50,7 +48,6 @@ with open("txt file/leaderboard.txt", "r+") as file:
     while file.readline().split("\n")[0] != "":
         for i in range(info_run):
             info_runner = info_runner + file.readline().split("\n")[0].split("il y a ")[0].split("today")[0] + " | "
-            print(info_runner)
 
         player_list.append("#" + str(place_run) + " | " + info_runner)
         info_runner = ""
