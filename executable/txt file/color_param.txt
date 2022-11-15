@@ -1,3 +1,0 @@
-background_color : #000000
-text_color : #ffffff
-time between each change (sec) : 10
