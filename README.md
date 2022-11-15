@@ -18,9 +18,9 @@ type the color and the time that you want :
 if you type "6" the program will take the information that is at "color_param.txt" :
 
 in the file type :
-    background_color : #the color you want (in Hex)
-    text_color : #the color you want (in Hex)
-    time between each change (sec) : the time you want (in second)
+    -background_color : #the color you want (in Hex)
+    -text_color : #the color you want (in Hex)
+    -time between each change (sec) : the time you want (in second)
 
 /!\ don't forget the space
 
