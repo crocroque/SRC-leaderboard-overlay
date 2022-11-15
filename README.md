@@ -1,5 +1,5 @@
 # SRC-leaderboard-overlay
-An overlay do with python without the api (my first project)
+An overlay do with python and the module selenium for webscraping (my first project)
 
 SRC leaderboard project :
 
