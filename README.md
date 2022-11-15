@@ -11,7 +11,7 @@ For choose the game and the category :
 
 Type the color and the time that you want :
 - there is colors by default, by typing the number that is to the left from the color
-- if you type the number for "other" they will ask you the code Hex (you can convert here : https://www.w3schools.com/colors/colors_hexadecimal.asp
+- if you type the number for "other" they will ask you the code Hex (you can convert here : https://www.w3schools.com/colors/colors_hexadecimal.asp)
 
 If you type "6" the program will take the information that is at "color_param.txt" :
 
