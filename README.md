@@ -5,8 +5,6 @@ SRC leaderboard project :
 
 When you will lance the program, they will ask you a color for the background, the text color and the time between each change
 
--the program work only on window
-
 For choose the game and the category :
 - go to the page of the leaderboard, choose your category and copy the link
 - in "leaderboard_link.txt" type ONLY THE LINK
@@ -23,6 +21,8 @@ In the file type :
 - time between each change (sec) : the time you want (in second) 
 
 /!\ Don't forget the spaces in the "color_param.txt"
+
+/!\ the program work only on window
 
 /!\ This is my first project (there are probably bugs)
  
