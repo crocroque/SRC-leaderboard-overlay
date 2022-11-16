@@ -27,3 +27,5 @@ In the file type :
 /!\ This is my first project (there are probably bugs)
  
 /!\ I do not speak english very well
+
+some leaderboard don't works
